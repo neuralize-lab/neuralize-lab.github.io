@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Find more about me here: www.varadsrivastava.com
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+If you'd like to collaborate, don't hesitate to contact me!
+This is a simple blog for exciting topics and research in the field of Cognitive Science and A.I.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[varadsrivastav@gmail.com](mailto:varadsrivastav@gmail.com)
