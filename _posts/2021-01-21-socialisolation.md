@@ -30,7 +30,8 @@ Two things that I believe are very important in the context of the study and wer
 1.	According to the University of California, Los Angeles (UCLA) loneliness scale, the participants had low levels of pre-existing loneliness.
 2.	It is not possible to know the subjectivity of loneliness in mice when isolated. But in humans, loneliness is known to be a subjective phenomenon. For example, I could be alone at home and still not feel lonely, or I could be in a crowded place like a market and still feel lonely. So, inducing a subjective experience of isolation is a challenging task. To address this, socially well-connected participants were taken into the study, and they were kept away from any social interaction or stimulation like novels or even the internet. Questionnaires were used as well to assess the subjective experience of isolation and social craving.
 
-##Results
+##Results:
+
 The results obtained and their interpretation are:
 1.	Effect of isolation and fasting on social and food cravings: According to t-test values, participants reported social craving, increased loneliness and discomfort as well as decreased happiness compared to before social isolation. Similar was reported after fasting, i.e., food craving, hunger, discomfort, and decreased happiness were reported according to t-test values. Therefore, the absence of both forms resulted in craving, along with discomfort and decreased happiness.
 It was also noted that the standard deviation of craving ratings was more for social than for food. This implies more variability in the level of craving for social interaction among participants than for food craving. In my opinion, this represents the subjective nature of loneliness and disparities in the effect of isolation among people.
@@ -59,11 +60,17 @@ b.	Activity in response to social cues (compared with control cues) was higher a
 This is an exciting result because, unlike in the SN/VTA region, where both social and food craving activity was similar, they were dissociable in the striatum.
 
 9.	Activity in whole-brain regions: Authors reported selective activity in response to food craving in the NAcc, ACC, periaqueductal gray, and amygdala. For social craving, activity was reported in Ca, OFC, and dorsomedial prefrontal cortex.
-Critique
+
+
+##Critique:
+
 •	Participants with pre-existing chronic loneliness showed diminished SN/VTA activity in response to social cues (Point 7 in Results). This could be because of chronic isolation, probably leading them to social withdrawal. However, the causal connection underlying this correlation needs to be investigated further, as even low sensitivity of the SN/VTA regions could cause chronic loneliness, making it a consequence.
 •	Craving was measured using passive viewing of cues and self-reporting, rather than a direct measure of the level of motivating behavior, it reflected.
 •	The study was conducted with a small number of participants, and moreover, most of them were young adults. It has been seen that often, older people are more affected by loneliness. Combined with cultural differences across countries, this study cannot be generalized.
-Future Directions
+
+
+##Future Directions:
+
 •	Since correlations between SN/VTA activity and self-reported cravings were significant w.r.t. to different conditions of self-reporting for social and food cravings (Point 5 in Results). Thus, changes in subsequent behavior as predicted by SN/VTA activity should be investigated.
 •	The study should be conducted, taking participants from the older population to test the study results' generalizability.
 •	To understand the dynamics of how social craving and motivational activity are affected by the social environment, subsequent studies must be performed for each participant over more extended periods.
