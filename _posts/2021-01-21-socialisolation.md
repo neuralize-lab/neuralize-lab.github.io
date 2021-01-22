@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of “Acute Social Isolation Evokes Midbrain Craving Responses Similar to Hunger” Tomova et al. 2020
+title: Craving response evoked in brain due to social isolation and hunger are similar
 ---
 
 This is my review of a recent paper from Prof. Rebecca Saxe’s lab at MIT’s Department of Brain and Cognitive Sciences. The authors (Tomova et al. 2020) present a study investigating if forced isolation makes people crave social interactions similar to how a hungry person craves food. This study is extremely relevant in the current scenario, where millions of people worldwide have been forced to self-isolate.
