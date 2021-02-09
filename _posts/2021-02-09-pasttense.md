@@ -15,7 +15,7 @@ The grammar is a system of productive, combinatorial operations that assemble mo
 
 In the Connectionist Model by McCleland, Paterson, the authors posit a single all encompassing hypothesis for the formation of past tense forms by using a connectionist approach, in which individual forms are broken down into sounds, and a representation of the sound and its position is formed in the form of wickel features. Inflection happens by association with wickel features.
 
-1. Modular vs Probabilistic
+### Modular vs Probabilistic
 
 - Modular (as per WR model)
 Modularity refers to the idea that there are self-contained areas in the brain that store mental processes such as the "lower level" reflexes. Refers to a specialized sub-unit to resolve cognitive tasks. Linked with the idea of some innate neural correlates for specific functions.
@@ -49,7 +49,7 @@ Pinker's theory rejected the role of meaning in selection of past tense forms. H
 So, given that meaning carries a weight in past tense formation, the model should be more probabilistic than modular.
 Brown mentions that learning of the inflections is probabilistic as and when required. The analysis of whether the overregularization is sudden leads them to conclude that it's actually gradual and the acquisition is more suited to a probabilistic model(Bayesian).
 
-2. Symbolic vs Distributed
+### Symbolic vs Distributed
 
 - Symbolic (as per WR Model)
 The dual route is considered symbolic in approach, as the symbols and representations  are distinct as compared to the single route connectionist approach wherein the matrix of weights represents the information in a distributed way, which is similar for all the inputs.
@@ -71,7 +71,7 @@ As opposed to Pinker's theory (which emphasised on word / symbol manipulations a
 
 The learning process is influenced by associations in the Wickelfeature properties e.g. a combination like /eep/ is associated with /ept/ getting us crept, slept, kept for creep, sleep and keep.
 
-3. Innate vs Gradually Acquired
+### Innate vs Gradually Acquired
 
 - Innate (as per WR Model)
 Innatism is a philosophical and epistemological doctrine that holds that the mind is born with ideas/knowledge, and that therefore the mind is not a "blank slate" at birth.
@@ -85,7 +85,7 @@ Marcus et al. suggested that the first over-regularisation in each child’s cor
 Considering the data presented by Marcus et al. , Hoeffner noted that one could just easily say that “Adam’s first over-regularization occurred during a six-month period in which the probability of using the regular ... rose gradually from 24 to 44%”. Either statement seems fairly arbitrary; the data are noisy, and spikes occur when relatively few observations were available (Adam’s 100% marking at 37 months is based on 8 observations). Given the noise, the graphs from all three children suggest a process that proceeds from very little marking in obligatory contexts to fairly reliable marking over the course of about one year. A good fit to the data was achieved with a logistic regression in which the use of the regular past increases monotonically with age. Use of first over-regularization as a predictor did not reliably improve the account for regularization rates in any of the children.
 Moreover, the notion for past tense forms and grammar in general being “gradually acquired” rather than innate, finds support from Bayesian line of thought. "Gradually acquired" and "Probabilistic" can be related together since in Bayesian models, the beliefs are updated in light of new evidence which is a gradual process. Also, in ANN the networks are trained with the incoming data which is also a gradual process.
 
-4. Domain Specific vs Domain General
+### Domain Specific vs Domain General
 
 - Domain specific (as per WR Model)
 Certain cognitive functions are responsible for specific functions, related to modularity. Different types of information are learned differently.
