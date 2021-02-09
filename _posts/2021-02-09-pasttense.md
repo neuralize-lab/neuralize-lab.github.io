@@ -18,6 +18,7 @@ In the Connectionist Model by McCleland, Paterson, the authors posit a single al
 ### Modular vs Probabilistic
 
 - Modular (as per WR model)
+
 Modularity refers to the idea that there are self-contained areas in the brain that store mental processes such as the "lower level" reflexes. Refers to a specialized sub-unit to resolve cognitive tasks. Linked with the idea of some innate neural correlates for specific functions.
 
 Ullman and colleagues have recently extended the WR theory to a hypothesis about the neurocognitive substrate of lexicon and grammar.
@@ -38,7 +39,7 @@ Agrammatism: regularization errors, lack of errors in retrieval
 
 (Pinker and Ullman, 2002)
 
-
+![Past Tense1]({{ site.baseurl }}/posts/images/pt1.png?raw=true "Past Tense 1")
 
 
 
@@ -52,6 +53,7 @@ Brown mentions that learning of the inflections is probabilistic as and when req
 ### Symbolic vs Distributed
 
 - Symbolic (as per WR Model)
+
 The dual route is considered symbolic in approach, as the symbols and representations  are distinct as compared to the single route connectionist approach wherein the matrix of weights represents the information in a distributed way, which is similar for all the inputs.
 
 Eg. The symbolic route is insensitive to the phonological structure of the word and applies the general rule ("ed") in case of regulars.
@@ -74,6 +76,7 @@ The learning process is influenced by associations in the Wickelfeature properti
 ### Innate vs Gradually Acquired
 
 - Innate (as per WR Model)
+
 Innatism is a philosophical and epistemological doctrine that holds that the mind is born with ideas/knowledge, and that therefore the mind is not a "blank slate" at birth.
 
 The Words and Rules (WR) theory claims that the regular–irregular distinction is an epiphenomenon of the design of the human language faculty, in particular, the distinction between lexicon and grammar made in most traditional theories of language. (Pinker and Ullman, 2002)
@@ -81,6 +84,7 @@ Examples: run and runn-ed, hold and hold-ed; where the irregular forms are ran a
 (Connectionists claimed that robust generalization depends on regular forms constituting the majority of forms in the child’s input) However,the onset and rate of overregularization errors in children do not correlate with changes in the number or proportion of regular verbs used by parents.
 
 - Gradual acquisition (as per Connectionist model)
+
 Marcus et al. suggested that the first over-regularisation in each child’s corpus signals the moment of acquisition of the past tense rule, and state that this over-regularisation error is followed by “rapid increases in inflecting regulars to high levels shortly afterward. Adam’s first over-regularization occurred during a 3-month period in which regular marking increased from 0 to 100%
 Considering the data presented by Marcus et al. , Hoeffner noted that one could just easily say that “Adam’s first over-regularization occurred during a six-month period in which the probability of using the regular ... rose gradually from 24 to 44%”. Either statement seems fairly arbitrary; the data are noisy, and spikes occur when relatively few observations were available (Adam’s 100% marking at 37 months is based on 8 observations). Given the noise, the graphs from all three children suggest a process that proceeds from very little marking in obligatory contexts to fairly reliable marking over the course of about one year. A good fit to the data was achieved with a logistic regression in which the use of the regular past increases monotonically with age. Use of first over-regularization as a predictor did not reliably improve the account for regularization rates in any of the children.
 Moreover, the notion for past tense forms and grammar in general being “gradually acquired” rather than innate, finds support from Bayesian line of thought. "Gradually acquired" and "Probabilistic" can be related together since in Bayesian models, the beliefs are updated in light of new evidence which is a gradual process. Also, in ANN the networks are trained with the incoming data which is also a gradual process.
@@ -88,6 +92,7 @@ Moreover, the notion for past tense forms and grammar in general being “gradua
 ### Domain Specific vs Domain General
 
 - Domain specific (as per WR Model)
+
 Certain cognitive functions are responsible for specific functions, related to modularity. Different types of information are learned differently.
 
 An intriguing aspect of inflection is that irregular forms can sometimes turn up in regular form. Some of these regularizations are unsystematic –
@@ -99,10 +104,12 @@ The Words-and-Rules theory explains this phenomenon using an independently motiv
 
 Irregular-sounding words are regularized if they lack a root in the head position that can be marked for the inflectional feature (tense or number). The regular suffix applies as the default, as it does in other cases where memory access is disabled. This neatly explains a diverse set of systematic regularizations found in actual usages, laboratory experiments with adults and children, and many languages [c–f]:
 
+![Past Tense2]({{ site.baseurl }}/posts/images/pt2.png?raw=true "Past Tense 2")
 
 (Pinker and Ullman, 2002)
 
 - Domain General (as per Connectionist Model)
+
 As the authors have described in the paper, connectionist models inherently capture the regularity in the exceptions because the exceptions are processed by the same network that processes the regulars, which is in stark contrast to the rule-based hypothesis put forth by Pinker & Ullman.
 All nine of the types noted in the paper, encompassing 177/181 forms, exploit to some degree the connection weights that produce regular items. Even the irregularities have some regularities in them, (quasi-regular) which a connectionist model identifies and outputs the valid result.  
 
